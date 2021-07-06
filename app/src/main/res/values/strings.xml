@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Dynamic ListView</string>
+    <string name="next">NEXT</string>
+</resources>
